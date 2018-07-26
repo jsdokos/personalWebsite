@@ -1,0 +1,55 @@
+@media screen and (min-width:640px) /* Display for Computers*/
+{  
+  #main 
+  {
+      margin-right: auto;
+      margin-left: auto;
+      width: 60%;
+  }
+
+  #petfinder-mobile
+  {
+    display: none;
+  }
+}
+@media screen and (max-width:639px) /*display for mobile rules*/
+{ 
+  #main 
+  { 
+    margin-left: 1em;
+  }
+
+  #petfinder-computer
+  {
+    display: none;
+  }
+
+  img
+  {
+    width: auto;
+    height: auto;
+  }
+}
+
+#main
+{
+  margin-top: 1em;
+}
+
+body
+{
+  background:  #fcf8f2;
+}
+
+@media screen and (max-width:638px) 
+{  
+    img {
+      display: none;
+    }
+}
+
+#petfinder-computer
+{
+
+  
+}
