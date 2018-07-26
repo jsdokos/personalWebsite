@@ -23,23 +23,23 @@
 
 #main
 {
-  margin-top: 1em;
+  margin-top: 2em;
   color: #ffffff;
 }
 
 #main a:link
 {
-  color: #888888
+  color: #888888;
 }
 
 #main a:visited
 {
-  color: #9e9e9e
+  color: #9e9e9e;
 }
 
 #main a:hover
 {
-  color: #707070
+  color: #707070;
 }
 
 
@@ -47,10 +47,11 @@ body
 {
   background:  #474747;
 }
-
+/*
 @media screen and (max-width:638px) 
 {  
     img {
       display: none;
     }
 }
+*/
