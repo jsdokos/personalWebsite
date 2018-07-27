@@ -42,6 +42,12 @@
   color: #707070;
 }
 
+/* Done to make dots be inline */
+ul
+{
+  margin-left: 2em;
+}
+
 
 body
 {
